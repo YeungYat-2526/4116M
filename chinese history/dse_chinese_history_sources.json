@@ -1,0 +1,62 @@
+[
+  {
+    "source_id": "EDB-CH-CURRICULUM",
+    "publisher": "香港教育局",
+    "title": "中國歷史課程及評估指引（中四至中六）2007（2015年11月更新）",
+    "source_type": "curriculum_document",
+    "authority_tier": "A",
+    "original_url": "https://www.edb.gov.hk/cd/pshe/curriculum/chi/default.html",
+    "version_label": "2007/2015-11",
+    "license_status": "official_web_page",
+    "review_status": "catalogued",
+    "notes": "確認課程版本及架構。"
+  },
+  {
+    "source_id": "EDB-CH-CORE",
+    "publisher": "香港教育局",
+    "title": "高中中國歷史（中四至中六）課程支援教材（必修部分）",
+    "source_type": "teaching_resource",
+    "authority_tier": "B",
+    "original_url": "https://www.edb.gov.hk/tc/curriculum-development/kla/pshe/references-and-resources/chinese-history/support-materials-core-part.html",
+    "version_label": "current_page",
+    "license_status": "official_web_page",
+    "review_status": "catalogued",
+    "notes": "核對必修單元及課題名稱。"
+  },
+  {
+    "source_id": "EDB-CH-ELECTIVE",
+    "publisher": "香港教育局",
+    "title": "高中中國歷史（中四至中六）課程支援教材（選修部分）",
+    "source_type": "teaching_resource",
+    "authority_tier": "B",
+    "original_url": "https://www.edb.gov.hk/tc/curriculum-development/kla/pshe/references-and-resources/chinese-history/support-materials-elective-part.html",
+    "version_label": "current_page",
+    "license_status": "official_web_page",
+    "review_status": "catalogued",
+    "notes": "核對六個選修單元及學習重點。"
+  },
+  {
+    "source_id": "EDB-NSE-CH-2025",
+    "publisher": "香港教育局",
+    "title": "個人、社會及人文教育學習領域—中國歷史科（2025）",
+    "source_type": "framework_document",
+    "authority_tier": "A",
+    "original_url": "https://www.edb.gov.hk/attachment/tc/curriculum-development/4-key-tasks/moral-civic/nse/nse2025_subject_framework_pshechist.pdf",
+    "version_label": "2025",
+    "license_status": "official_web_page",
+    "review_status": "catalogued",
+    "notes": "確認高中課程涵蓋上古至二十世紀末。"
+  },
+  {
+    "source_id": "LOCAL-NARRATIVE-SEED",
+    "publisher": "本專案",
+    "title": "人工編寫的歷史敘事種子內容",
+    "source_type": "authored_synthesis",
+    "authority_tier": "DRAFT",
+    "original_url": null,
+    "version_label": "seed_v1",
+    "license_status": "project_internal",
+    "review_status": "needs_source_review",
+    "notes": "不是外部原文摘錄；每段需要配對可靠學術或一手史料。"
+  }
+]

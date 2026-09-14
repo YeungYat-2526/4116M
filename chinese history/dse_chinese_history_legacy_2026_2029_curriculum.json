@@ -1,0 +1,501 @@
+{
+  "course_version": "legacy_2026_2029",
+  "version_label": "現行高中中國歷史課程（2007；2015年11月更新）",
+  "language": "zh-Hant-HK",
+  "units": [
+    {
+      "id": "A1",
+      "part": "甲部",
+      "unit_no": 1,
+      "name": "夏商周",
+      "period": "上古至春秋戰國",
+      "mandatory": true,
+      "topics": [
+        {
+          "id": "A1-01",
+          "code": "甲一-一",
+          "name": "周代分封",
+          "mandatory": true,
+          "narrative_sections": [
+            "西周建立與分封的背景",
+            "兩次分封與宗法秩序",
+            "分封的影響與轉變"
+          ]
+        },
+        {
+          "id": "A1-02",
+          "code": "甲一-二",
+          "name": "春秋戰國的政治與社會變動",
+          "mandatory": true,
+          "narrative_sections": [
+            "春秋時期的政治變化",
+            "戰國變法與中央集權",
+            "社會結構與百家爭鳴"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A2",
+      "part": "甲部",
+      "unit_no": 2,
+      "name": "秦漢",
+      "period": "秦至東漢",
+      "mandatory": true,
+      "topics": [
+        {
+          "id": "A2-01",
+          "code": "甲二-一",
+          "name": "秦漢的統治政策",
+          "mandatory": true,
+          "narrative_sections": [
+            "秦的統一與皇帝制度",
+            "秦的法治與覆亡",
+            "漢初至漢武帝",
+            "東漢的恢復與失衡"
+          ]
+        },
+        {
+          "id": "A2-02",
+          "code": "甲二-二",
+          "name": "兩漢戚宦掌權的政局",
+          "mandatory": true,
+          "narrative_sections": [
+            "西漢外戚與宮廷政治",
+            "東漢外戚與宦官輪替",
+            "黨錮之禍與東漢末危機"
+          ]
+        },
+        {
+          "id": "A2-03",
+          "code": "甲二-三",
+          "name": "王莽的篡漢與新政",
+          "mandatory": true,
+          "narrative_sections": [
+            "篡漢的政治背景",
+            "新政內容與執行困難",
+            "赤眉綠林與東漢重建"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A3",
+      "part": "甲部",
+      "unit_no": 3,
+      "name": "魏晉南北朝",
+      "period": "三國至南北朝",
+      "mandatory": true,
+      "topics": [
+        {
+          "id": "A3-01",
+          "code": "甲三-一",
+          "name": "北朝的漢胡融和",
+          "mandatory": true,
+          "narrative_sections": [
+            "分裂、遷徙與族群互動",
+            "孝文帝改革",
+            "融和的成果與限制"
+          ]
+        },
+        {
+          "id": "A3-02",
+          "code": "甲三-二",
+          "name": "東晉及南朝的士族與寒門",
+          "mandatory": true,
+          "narrative_sections": [
+            "南遷與士族政治",
+            "寒門與軍事力量上升",
+            "士族、寒門與社會文化"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A4",
+      "part": "甲部",
+      "unit_no": 4,
+      "name": "隋唐",
+      "period": "隋至唐末",
+      "mandatory": true,
+      "topics": [
+        {
+          "id": "A4-01",
+          "code": "甲四-一",
+          "name": "隋唐治世",
+          "mandatory": true,
+          "narrative_sections": [
+            "隋的統一與制度建設",
+            "貞觀與開元",
+            "社會、經濟與文化"
+          ]
+        },
+        {
+          "id": "A4-02",
+          "code": "甲四-二",
+          "name": "安史之亂與唐代衰亡",
+          "mandatory": true,
+          "narrative_sections": [
+            "節度使與叛亂背景",
+            "戰爭經過與制度後果",
+            "晚唐衰亡"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "A5",
+      "part": "甲部",
+      "unit_no": 5,
+      "name": "宋元明清",
+      "period": "宋至鴉片戰爭前夕",
+      "mandatory": true,
+      "topics": [
+        {
+          "id": "A5-01",
+          "code": "甲五-一",
+          "name": "宋元的中央集權",
+          "mandatory": true,
+          "narrative_sections": [
+            "北宋中央集權",
+            "王安石變法與北宋困局",
+            "元代行中書省制"
+          ]
+        },
+        {
+          "id": "A5-02",
+          "code": "甲五-二",
+          "name": "明清的君主集權",
+          "mandatory": true,
+          "narrative_sections": [
+            "明太祖與明成祖",
+            "清代君主集權",
+            "集權的效果與代價"
+          ]
+        },
+        {
+          "id": "A5-03",
+          "code": "甲五-三",
+          "name": "清初的民族政策",
+          "mandatory": true,
+          "narrative_sections": [
+            "滿洲入關與統治安排",
+            "多族群帝國的制度與策略",
+            "民族融和與統一多民族國家"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B1",
+      "part": "乙部",
+      "unit_no": 6,
+      "name": "鴉片戰爭至辛亥革命",
+      "period": "十九世紀中葉至1911年",
+      "mandatory": true,
+      "topics": [
+        {
+          "id": "B1-01",
+          "code": "乙一-一",
+          "name": "列強的入侵",
+          "mandatory": true,
+          "narrative_sections": [
+            "鴉片戰爭前的中英關係",
+            "不平等條約體系",
+            "甲午戰爭、瓜分與八國聯軍"
+          ]
+        },
+        {
+          "id": "B1-02",
+          "code": "乙一-二",
+          "name": "改革與革命",
+          "mandatory": true,
+          "narrative_sections": [
+            "自強運動與洋務建設",
+            "戊戌變法與晚清改革",
+            "革命思想與辛亥革命",
+            "晚清社會經濟生活"
+          ]
+        },
+        {
+          "id": "B1-S01",
+          "code": "乙一-附一",
+          "name": "太平天國",
+          "mandatory": false,
+          "narrative_sections": [
+            "起事與政權",
+            "內鬥與覆亡"
+          ]
+        },
+        {
+          "id": "B1-S02",
+          "code": "乙一-附二",
+          "name": "義和團事件",
+          "mandatory": false,
+          "narrative_sections": [
+            "背景與擴張",
+            "八國聯軍與後果"
+          ]
+        },
+        {
+          "id": "B1-S03",
+          "code": "乙一-附三",
+          "name": "晚清中國的社會和經濟生活",
+          "mandatory": false,
+          "narrative_sections": [
+            "人口、土地與農村",
+            "城市、商業與新式生活"
+          ]
+        },
+        {
+          "id": "B1-S04",
+          "code": "乙一-附四",
+          "name": "晚清上海的發展",
+          "mandatory": false,
+          "narrative_sections": [
+            "港口與城市空間",
+            "工業、文化與矛盾"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B2",
+      "part": "乙部",
+      "unit_no": 7,
+      "name": "辛亥革命至中華人民共和國成立",
+      "period": "1911年至1949年",
+      "mandatory": true,
+      "topics": [
+        {
+          "id": "B2-01",
+          "code": "乙二-一",
+          "name": "民初政局",
+          "mandatory": true,
+          "narrative_sections": [
+            "共和建立與袁世凱掌權",
+            "軍閥政治與五四運動",
+            "邊疆與國家整合"
+          ]
+        },
+        {
+          "id": "B2-02",
+          "code": "乙二-二",
+          "name": "國共分合",
+          "mandatory": true,
+          "narrative_sections": [
+            "第一次國共合作與北伐",
+            "分裂、內戰與重建",
+            "第二次國共合作及再次分裂"
+          ]
+        },
+        {
+          "id": "B2-03",
+          "code": "乙二-三",
+          "name": "抗日戰爭",
+          "mandatory": true,
+          "narrative_sections": [
+            "局部侵略與全面戰爭",
+            "持久抗戰與社會動員",
+            "國際關係與勝利"
+          ]
+        },
+        {
+          "id": "B2-04",
+          "code": "乙二-四",
+          "name": "國共和談與內戰",
+          "mandatory": true,
+          "narrative_sections": [
+            "戰後談判",
+            "全面內戰與戰局轉變",
+            "中華人民共和國成立"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B3",
+      "part": "乙部",
+      "unit_no": 8,
+      "name": "中華人民共和國成立至二十世紀末",
+      "period": "1949年至2000年",
+      "mandatory": true,
+      "topics": [
+        {
+          "id": "B3-01",
+          "code": "乙三-一",
+          "name": "社會主義建設",
+          "mandatory": true,
+          "narrative_sections": [
+            "建國初期的國家重建",
+            "農業集體化與計劃經濟",
+            "大躍進與調整"
+          ]
+        },
+        {
+          "id": "B3-02",
+          "code": "乙三-二",
+          "name": "文化大革命",
+          "mandatory": true,
+          "narrative_sections": [
+            "發動背景與初期",
+            "武鬥、軍隊介入與政策轉折",
+            "結束與歷史後果"
+          ]
+        },
+        {
+          "id": "B3-03",
+          "code": "乙三-三",
+          "name": "改革開放",
+          "mandatory": true,
+          "narrative_sections": [
+            "改革的起點與農村轉型",
+            "城市、對外開放與市場化",
+            "對外關係與二十世紀末"
+          ]
+        },
+        {
+          "id": "B3-04",
+          "code": "乙三-四",
+          "name": "對外關係",
+          "mandatory": true,
+          "narrative_sections": [
+            "建國初期與冷戰",
+            "恢復聯合國席位與中美關係",
+            "改革開放後的外交與香港澳門"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E1",
+      "part": "選修",
+      "unit_no": 1,
+      "name": "二十世紀中國傳統文化的發展：承傳與轉變",
+      "period": "二十世紀",
+      "mandatory": false,
+      "topics": [
+        {
+          "id": "E1-01",
+          "code": "選一",
+          "name": "五四時期對中國傳統文化的檢討、承傳與創新",
+          "mandatory": false,
+          "narrative_sections": [
+            "新文化運動與反傳統思潮",
+            "馬克思主義中國化",
+            "文化保守主義與當代新儒家"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E2",
+      "part": "選修",
+      "unit_no": 2,
+      "name": "地域與資源運用",
+      "period": "跨時期歷史地理",
+      "mandatory": false,
+      "topics": [
+        {
+          "id": "E2-01",
+          "code": "選二",
+          "name": "黃河、長江、珠江流域與城市發展",
+          "mandatory": false,
+          "narrative_sections": [
+            "黃河流域與國都興廢",
+            "唐代長安",
+            "長江流域與南宋臨安",
+            "珠江流域與清代廣州"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E3",
+      "part": "選修",
+      "unit_no": 3,
+      "name": "時代與知識分子",
+      "period": "先秦至近代",
+      "mandatory": false,
+      "topics": [
+        {
+          "id": "E3-01",
+          "code": "選三",
+          "name": "孔子、司馬遷、王安石、何啟與梁啟超",
+          "mandatory": false,
+          "narrative_sections": [
+            "孔子",
+            "司馬遷",
+            "王安石",
+            "何啟",
+            "梁啟超"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E4",
+      "part": "選修",
+      "unit_no": 4,
+      "name": "制度與政治演變",
+      "period": "先秦至明代",
+      "mandatory": false,
+      "topics": [
+        {
+          "id": "E4-01",
+          "code": "選四",
+          "name": "田制、兵制與科舉制",
+          "mandatory": false,
+          "narrative_sections": [
+            "井田制與均田制",
+            "兩漢兵制",
+            "唐、明徵兵制與國勢",
+            "科舉制與人才消長"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E5",
+      "part": "選修",
+      "unit_no": 5,
+      "name": "宗教傳播與文化交流",
+      "period": "漢至清",
+      "mandatory": false,
+      "topics": [
+        {
+          "id": "E5-01",
+          "code": "選五",
+          "name": "道教、佛教、伊斯蘭教與基督宗教",
+          "mandatory": false,
+          "narrative_sections": [
+            "道教及佛教",
+            "伊斯蘭教與宋元貿易",
+            "明清基督宗教與禮儀之爭"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "E6",
+      "part": "選修",
+      "unit_no": 6,
+      "name": "女性社會地位：傳統與變遷",
+      "period": "古代至二十世紀",
+      "mandatory": false,
+      "topics": [
+        {
+          "id": "E6-01",
+          "code": "選六",
+          "name": "傳統女性角色與近代轉變",
+          "mandatory": false,
+          "narrative_sections": [
+            "貞節觀念、婚姻與家庭",
+            "纏足、教育與天足運動",
+            "婦權思想與近代女性角色"
+          ]
+        }
+      ]
+    }
+  ]
+}

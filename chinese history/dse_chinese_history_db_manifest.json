@@ -1,0 +1,17 @@
+{
+  "database": "dse_chinese_history.sqlite",
+  "course_version": "legacy_2026_2029",
+  "generated_at": "2026-09-14T08:37:31.689Z",
+  "tables": {
+    "units": 14,
+    "topics": 32,
+    "narrative_sections": 98,
+    "events": 117,
+    "entities": 278,
+    "sources": 5
+  },
+  "mandatory_units": 8,
+  "elective_units": 6,
+  "content_status": "needs_source_review",
+  "note": "已入庫完整敘事種子，但尚未逐段配對學術／一手史料；不可宣稱為已完成封閉式證據庫。"
+}
